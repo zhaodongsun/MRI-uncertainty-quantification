@@ -1,4 +1,4 @@
-# posterior sampling for MRI reconstruction and uncertainty quantification
+# Posterior sampling for MRI reconstruction and uncertainty quantification
 Posterior sampling (from the paper "[Deep Bayesian Inversion](https://arxiv.org/abs/1811.05910)") for MRI uncertainty quantification and reconstruction
 
 ## Problem Formulation
@@ -22,5 +22,8 @@ the predicted uncertainty has strong correlations with PSNR and MSE, which is sh
 
 The figure below shows the comparison between our mask design method and other baselines.
 ![compare with baselines](figures/compare_uncer_psnr.jpg)
+
+## Code
+If you need the code, please contact me directly.
 
 
