@@ -23,7 +23,4 @@ the predicted uncertainty has strong correlations with PSNR and MSE, which is sh
 The figure below shows the comparison between our mask design method and other baselines.
 ![compare with baselines](figures/compare_uncer_psnr.jpg)
 
-## Code
-If you need the code, please contact me directly.
-
 
